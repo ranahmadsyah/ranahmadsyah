@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ranahmadsyah
+- 👋 Hi, I’m @ran_a
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on Project
